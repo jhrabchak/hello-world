@@ -3,3 +3,5 @@ typical first project
 
 
 I'm testing the commit functions of GIT Hub
+
+testing the new branch
